@@ -1,0 +1,1 @@
+scp -i key-pair.pem -r ./src/* username@remote_host:/home/ec2-user
